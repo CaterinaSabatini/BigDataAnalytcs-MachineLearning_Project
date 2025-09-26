@@ -1,0 +1,24 @@
+# Python
+*.pyc
+*.pyo
+.*_cache
+wine-py2exe/
+py2exe.log
+build/
+dist/
+zip/
+tmp/
+venv/
+.venv/
+completions/
+
+# Lazy extractors
+*/extractor/lazy_extractors.py
+
+# Text Editor / IDE
+.idea
+*.iml
+.vscode
+*.sublime-*
+*.code-workspace
+*.swp
