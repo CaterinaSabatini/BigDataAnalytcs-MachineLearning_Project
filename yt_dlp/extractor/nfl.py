@@ -81,7 +81,7 @@ class NFLBaseIE(InfoExtractor):
         'peacockUUID': 'undefined',
     }
     _ACCOUNT_INFO = {}
-    _API_KEY = '3_Qa8TkWpIB8ESCBT8tY2TukbVKgO5F6BJVc7N1oComdwFzI7H2L9NOWdm11i_BY9f'
+    _API_KEY = ''
 
     _TOKEN = None
     _TOKEN_EXPIRY = 0
